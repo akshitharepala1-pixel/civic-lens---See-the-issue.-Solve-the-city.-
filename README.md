@@ -14,4 +14,5 @@ FEATURES:
 
 GOAL:
 to make civic reporting smarter, simpler, accessible and more transparent by connecting citizen observations with actionable information
+[explore civic lens] (https://civic-intelligence-platform.netlify.app)
 
